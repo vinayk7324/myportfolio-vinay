@@ -793,7 +793,7 @@ width: 41vw;
     display: none;
 }
 
-@media screen and (max-width:1500px) {
+@media screen and (max-width:1100px) {
     .intro{
         display: flex;
         flex-direction: column;
@@ -944,7 +944,7 @@ width: 41vw;
 
    /* About */
  .About{
-    border: 2px solid crimson;
+    
     
     display: flex;
     flex-direction: column;
@@ -1220,7 +1220,7 @@ font-size:12vw ;}
 
 }
 .contact .contact1{
-        
+    border:2px solid brown;
     font-size: 5vw;
     width: auto;
    
