@@ -883,7 +883,7 @@ width: 41vw;
    .toggle{
     position: fixed;
    border: 0.1vw solid crimson;
-    height: 100vh;
+    height: 90vh;
     top:12vw;
     font-size: 7vw;
     z-index: 3;
@@ -911,7 +911,7 @@ width: 41vw;
     margin-top: 4vw;
    }
    .social{
-    margin-top: 4vw;
+    margin-top: 3vw;
     color: white;
     display: flex;
     align-items: center;
