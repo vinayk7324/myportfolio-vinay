@@ -792,7 +792,9 @@ width: 41vw;
 .toggle{
     display: none;
 }
-//Media query...
+
+
+
 @media screen and (max-width:1100px) {
     .intro{
         display: flex;
@@ -882,7 +884,7 @@ width: 41vw;
     position: fixed;
    border: 0.1vw solid crimson;
     height: 100vh;
-    top:12.2vw;
+    top:12vw;
     font-size: 7vw;
     z-index: 3;
     padding: 3vw;
