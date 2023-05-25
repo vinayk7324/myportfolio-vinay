@@ -1119,7 +1119,7 @@ font-size:12vw ;}
 }
 .skills .skills1 h1:after{
     padding: 0 1vw;
-    content: 'What I provid';
+    content: 'What I know';
     color:crimson;
     font-size:6vw;
     position: absolute;
@@ -1220,7 +1220,7 @@ font-size:12vw ;}
 
 }
 .contact .contact1{
-    border:2px solid brown;
+   
     font-size: 5vw;
     width: auto;
    
